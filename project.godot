@@ -1,0 +1,19 @@
+[gd_resource type="ProjectSettings" format=2]
+
+config_version=4
+
+[application]
+
+config/name="Die Hard - Shooting Platform Game"
+config/description="A Contra-style shooting platform game made with Godot 3.x"
+run/main_scene="res://scenes/Main.tscn"
+config/icon="res://icon.png"
+
+[physics]
+
+physics_engine/default_gravity=980
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
+textures/canvas_textures/default_texture_repeat=0
