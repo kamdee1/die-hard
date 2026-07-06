@@ -1,0 +1,19 @@
+# Godot-specific ignores
+.import/
+export.json
+.godot/
+bin/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
